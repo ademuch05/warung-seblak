@@ -24,6 +24,7 @@ Aplikasi ini dibuat untuk membantu penjual dalam mengelola usahanya dan memiliki
 ## TEKNOLOGI
 
 - JAVA SE JDK-8u202
+- MYSQL V8.0.29
 - MYSQL CONNECTOR/J 8.4
 - FLATLAF-3.6
 
